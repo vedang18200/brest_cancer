@@ -117,8 +117,11 @@ The **Cancer Detection Hub** is a machine learning-based system designed to assi
 4. **Lung Cancer Detection Input:**  
    ![Lung Cancer Detection Input](lung.png)  
 
-5. **Prediction Results:**  
-   ![Prediction Results](result.png)  
+5. **Advance Metrics Visualization:**  
+   ![Advance Metrics Visualization](advance.png) 
+
+6. **Prediction Results:**  
+   ![Prediction Results](lungoutput.png)  
 
 ---
 ## Future Enhancements
